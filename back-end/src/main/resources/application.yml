@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: MSNews
+server:
+  port: 8001
+
+
+
+meduza:
+  news:
+    partUrl: 'https://meduza.io/api/v3/search?chrono=news&locale=ru&'
+    pageUrl : 'page='
+    perPage: '&per_page=24'
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: MSFront
+server:
+  port: 8068
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+security:
+  anonym: anonymousUser
