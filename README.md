@@ -4,7 +4,7 @@ alt="Weather" height="300" />
   
   
  # Description
-  This app use for getting news from Meduza.ru. The paltform which on based MNA is Java and Spring Boot.
+  This app use for getting news from Meduza.ru. The paltform which on based the app is Java and Spring Boot.
   
   ## Development
 - Development language: Java 8
@@ -14,13 +14,13 @@ alt="Weather" height="300" />
 - API: Meduza News Api
 - Build automation: Gradle
   
-  ## The url to open the MNA
+  ## The url to open the App
 - Open the admin page for control another user role
   -  http://localhost:8080/admin
   
-- Open the authorization page to MNA
+- Open the authorization page to the App
   -  http://localhost:8080/auth/login
-- Page for sign out from MNA account
+- Page for sign out from the App account
   -  http://localhost:8080/auth/logout
   
 - Open the main page
