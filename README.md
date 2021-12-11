@@ -1,5 +1,5 @@
 # Meduza News Agregator (MNA)
-<p align="center"><img src="https://cdn-icons.flaticon.com/png/512/681/premium/681844.png?token=exp=1638691488~hmac=0e74c72c716e6b2c015e57c63e2f7336"
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/6369/6369659.png"
 alt="Weather" height="300" />
   
   
