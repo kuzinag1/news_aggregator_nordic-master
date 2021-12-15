@@ -1,5 +1,5 @@
 # Meduza News Agregator
-<p align="center"><img src="https://cdn-icons.flaticon.com/png/512/2353/premium/2353092.png?token=exp=1639225927~hmac=46ad7450b633af3cf47e9b84a3b1a3b8"
+<p align="center"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/news-icon.png"
 alt="Weather" height="300" />
   
   
